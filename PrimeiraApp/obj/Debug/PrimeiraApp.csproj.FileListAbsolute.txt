@@ -7,3 +7,4 @@ C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106\PrimeiraApp\o
 C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106\PrimeiraApp\obj\Debug\PrimeiraApp.csproj.CoreCompileInputs.cache
 C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106\PrimeiraApp\obj\Debug\PrimeiraApp.exe
 C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106\PrimeiraApp\obj\Debug\PrimeiraApp.pdb
+C:\Users\nathan.ssantos7\Documents\Visual Studio 2019\ProjetoTI106\PrimeiraApp\obj\Debug\PrimeiraApp.Form1.resources
